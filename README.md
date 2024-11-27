@@ -71,8 +71,20 @@ Once the application is set up, you can start using it by following these steps:
 
 ## Screenshot of Budget Tracker Application
 
-![Budget Tracker Screenshot](path-to-your-screenshot.jpg)
+<div style="display: flex; justify-content: center; gap: 50px;">
 
+<img src="pics/budgetpic1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+
+<img src="pics/budgetpic2.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+
+</div>
+<div style="display: flex; justify-content: center; gap: 50px;">
+
+<img src="pics/budgetpic3.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+
+<img src="pics/budgetpic4.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+
+</div>
 ---
 
 ## Troubleshooting
@@ -99,7 +111,7 @@ If you encounter any issues, here are some common solutions:
 If you need additional help, feel free to contact us:
 
 - **Email:** [support@budgettracker.com](mailto:support@budgettracker.com)
-- **GitHub Repository:** [https://github.com/your-username/budget-tracker](https://github.com/your-username/budget-tracker)
+- **GitHub Repository:** [https://github.com/VARUNs2196/budget-tracker](https://github.com/VARUNs2196/budget-tracker)
 
 We are happy to assist you with any questions or issues you may have!
 
